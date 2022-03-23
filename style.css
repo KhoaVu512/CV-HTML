@@ -1,0 +1,7 @@
+body {
+    margin: 25px 50px 75px;
+    font-family: 'Roboto', sans-serif;
+}
+.header {
+    max-width: 600px ;
+}
